@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Portfolio website created for/by Nate Joseph.
   Features blog posts and further information about his projects and accomplishments.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://natejoseph.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.natejoseph.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username: natejoseph
 
