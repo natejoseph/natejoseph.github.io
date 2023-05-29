@@ -21,17 +21,23 @@
 title: Nate Joseph
 email: nbjoseph23@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio website created for/by Nate Joseph.
-  Features blog posts and further information about his projects and accomplishments.
+  © Copyright 2023 Nate Joseph.
+  Powered by Jekyll and hosted by GitHub Pages.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.natejoseph.me" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
+linkedin_username: Nate Joseph
 github_username: natejoseph
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - about.md
+  - cv.md
+  - projects.md
+  - blog.md
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
