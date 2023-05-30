@@ -1,97 +1,106 @@
 - title: Nate Joseph
-  #type: map
-  #contents:
-  #  - name: Full Name
-  #    value: Albert Einstein
-  #  - name: Date of Birth
-  #    value: 14th March 1879
-  #  - name: Languages
-  #    value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science, CE&CS
+      institution: University of Miami, Coral Gables, Florida
+      year: 2021 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Double major in Computer Engineering and Computer Science
+        - Minor in Communication
+
+    - title: High school diploma
+      institution: St. John the Baptist Diocesan High School, West Islip, New York
+      year: 2017 - 2021
       description:
-        - Description 1.
-        - Description 2.
+        - 4.0 GPA
+        - Varsity Football & Track and Field
+        - Spanish Honor Society
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Extended Reality Software Engineer
+      institution: University of Miami Information Technology, Coral Gables, Florida
+      year: 04/2022 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Designed, developed, tested, and deployed augmented reality applications using Magic Leap headsets, Unity, and C# in an Agile workflow.
+        - Gained proficiency in using MRTK and Unity MARS to create headset and mobile-based AR applications, respectively.
+        - title: Core developer of an iOS application that uses YOLOv8 computer vision technology to scan food and accurately return its macronutrient data with respect to portion size.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Uses a self-trained database of over 120 thousand food images with hundreds of food options that are scannable, accurate, and allows for user data correction.
+    - title: Software Engineer Intern
+      institution: The Singular Factory, Miami, Florida
+      year: Summer 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Utilized ArcGIS mapping software in conjunction with Unity to build a mixed reality application with real-world raised-relief (3D) mapping capability, called HoloGIS.
+        - Efficiently worked with textures, tiles, and the GPU to understand and take advantage of the inner workings of graphics, how the map rendering works, and how/where data flows to/from the cache.
+        - Learned to manipulate graphics information and cache to merge information from two different applications to create new application functionality.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Relevant Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Calorie Checker
+      year: 06/2022-now
+      description: An innovative application that gives users the macronutrient information of food items by simply scanning them with their phone camera.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Skills and Expertise
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Languages:</u> C/C++, C#, Assembly, VHDL, Python, Java, HTML/CSS
+    - <u>Frameworks/Technologies:</u> Altera Monitor Program, AWS/Azure, DE1-SoC Dev Kit, ESRI, Git, iOS, Jira, Kali Linux, ModelSim, MRTK, .NET MAUI, PSpice, Quartus Prime, TensorFlow, Unity/MARS, UNIX, YOLO
+
+- title: Academic Interests and Coursework
+  type: nested_list
+  contents:
+    - title: Low Level Programming
+      items:
+        - "Processors: Hardware, Software, and Interfacing"
+        - Systems Programming
+        - <i>In Progress:</i> Computer Operating Systems
+        - <i>In Progress:</i> Computer Organization and Design
+    - title: AI/ML
+      items:
+        - <i>In Progress:</i> Intro to Artificial Intelligence
+        - <i>In Progress:</i> Neural Networks
+    - title: Hardware Engineering
+      items:
+        - Electrical Circuit Theory
+        - Electronics
+        - Logic Design
+        - (Structured) Digital Design
+    - title: Broad Software Engineering
+      items:
+        - Algorithms and Data Structures
+        - Augmented Reality
+        - Introduction to Cybersecurity
+    - title: Other Academic Interests
+      items:
+        - Communication Theory
+        - Introduction to Digital Filmmaking
+        - Philosophy of Space and Time
+        - Persuasion
+        - <i>In Progress:</i> Cinematic Arts Industry Insider
+
+- title: Extracurricular Activities
+  type: nested_list
+  contents:
+    - title: Clubs
+      items:
+        - <b>Senator</b>, National Society of Black Engineers
+        - Google Developer Students Club
+        - Caribbean Students Association
+        - Boxing Club
+    - title: Affiliations
+      items:
+        - Pi Kappa Phi Fraternity
+        - ColorStack
+        - eMerge Americas, <i>2022 and 2023 Attendee</i>
+        - Live! 360, Orlando, Florida, <i>2022 Attendee, AI Track</i>
+
+- title: Additional Information
+  type: list
+  contents:
+    - <u>Other Languages:</u> English (native), Haitian Creole (fluent), Spanish (fluent), American Sign Language (proficient)
+    - <u>Personal Interests:</u> Vinyl collecting, manga, social activities, basketball, football, MMA, esports, chess, DJing
