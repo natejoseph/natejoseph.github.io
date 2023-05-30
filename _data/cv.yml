@@ -41,7 +41,7 @@
 - title: Relevant Projects
   type: time_table
   contents:
-    - title: Calorie Checker
+    - title: <a href="https://www.natejoseph.me/assets/pdfs/CalorieChecker_UMComputingDayPoster.pdf">Calorie Checker</a>
       year: 06/2022-now
       description: An innovative application that gives users the macronutrient information of food items by simply scanning them with their phone camera.
 
