@@ -2,7 +2,9 @@
 layout: post
 title: "First Blog Post"
 date: 2023-05-27 08:17:34 -0400
+author: Nate Joseph
 categories: blog
+excerpt: My first blog post! Read to learn a bit about me.
 ---
 
 This is my first blog post on my new website! I am mostly using this as a template in order to fully understand how to

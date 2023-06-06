@@ -44,6 +44,8 @@ cv_title: CV
 projects_title: Projects
 blog_title: Blog
 
+show_excerpts: true
+
 bootstrap:
   version: "4.6.1"
   integrity:

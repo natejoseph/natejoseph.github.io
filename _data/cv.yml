@@ -50,7 +50,7 @@
   type: list
   contents:
     - <u>Languages:</u> C/C++, C#, Assembly, VHDL, Python, Java, HTML/CSS
-    - <u>Frameworks/Technologies:</u> Altera Monitor Program, AWS/Azure, DE1-SoC Dev Kit, ESRI, Git, iOS, Jira, Kali Linux, ModelSim, MRTK, .NET MAUI, PSpice, Quartus Prime, TensorFlow, Unity/MARS, UNIX, YOLO
+    - <u>Frameworks/Technologies:</u> Apple ARKit, AWS/Azure, DE1-SoC Dev Kit, ESRI, Git, Google ARCore, iOS, Jira, Kali Linux, ModelSim, MRTK, .NET MAUI, PSpice, Quartus Prime, TensorFlow, Unity/MARS, UNIX, YOLO
 
 - title: Academic Interests and Coursework
   type: nested_list
