@@ -6,6 +6,30 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
+  
+  {%- if page.image %}
+  <div class="profile float-right">
+      {%- assign profile_image_path = page.image | prepend: 'assets/images/' -%}
+
+      {% if page.image_circular %}
+        {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+      {% else %}
+        {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+      {% endif %}
+
+      {% include figure.html
+        path=profile_image_path
+        class=profile_image_class
+        width="250"
+        height="250"
+        alt=page.image -%}
+    {%- if page.address %}
+    <div class="address">
+      {{ page.address }}
+    </div>
+    {%- endif %}
+  </div>
+  {% endif -%}
 
   <div class="post-content">
     {{ content }}

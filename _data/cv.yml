@@ -49,7 +49,7 @@
 - title: Skills and Expertise
   type: list
   contents:
-    - <u>Languages:</u> C/C++, C#, Assembly, VHDL, Python, Java, HTML/CSS
+    - <u>Languages:</u> C/C++, C#, Assembly, VHDL, Bash, Python, Java, HTML/CSS
     - <u>Frameworks/Technologies:</u> Apple ARKit, AWS/Azure, DE1-SoC Dev Kit, ESRI, Git, Google ARCore, iOS, Jira, Kali Linux, ModelSim, MRTK, .NET MAUI, PSpice, Quartus Prime, TensorFlow, Unity/MARS, UNIX, YOLO
 
 - title: Academic Interests and Coursework
@@ -71,7 +71,7 @@
         - Electronics
         - Logic Design
         - (Structured) Digital Design
-    - title: Broad Software Engineering
+    - title: Broad Programming
       items:
         - Algorithms and Data Structures
         - Augmented Reality

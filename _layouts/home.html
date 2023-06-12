@@ -7,7 +7,33 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
+  <div class="profile float-right">
+    {%- if page.image %}
+      {%- assign profile_image_path = page.image | prepend: 'assets/images/' -%}
+
+      {% if page.image_circular %}
+        {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+      {% else %}
+        {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+      {% endif %}
+
+      {% include figure.html
+        path=profile_image_path
+        class=profile_image_class
+        width="250"
+        height="250"
+        alt=page.image -%}
+    {% endif -%}
+    {%- if page.address %}
+    <div class="address">
+      {{ page.address }}
+    </div>
+    {%- endif %}
+  </div>
+
+
   {{ content }}
+
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
