@@ -7,42 +7,16 @@
 
 .social-media-list li + li { padding-top: 0px; }
 
-
-
 table {
-  td, th {
-    color: var(--global-text-color);
-  }
-  td {
-    font-size: 1rem;
-  }
+  td, th { color: var(--global-text-color); }
+  td { font-size: 1rem; }
 }
-
-a, table.table a {
-  color: var(--global-theme-color);
-  &:hover {
-    color: var(--global-theme-color);
-    text-decoration: underline;
-  }
-  &:hover:after :not(.nav-item.dropdown) {
-    width: 100%;
-  }
+a, table.table a { color: var(--global-theme-color); border-color: var(rgba(0,0,0,0));
+  &:hover { color: var(--global-theme-color); text-decoration: underline; }
+  &:hover:after :not(.nav-item.dropdown) { width: 100%; }
 }
-
-table.table tr {
-  color: var(--global-text-color);
-  &:hover {
-    color: var(--global-text-color);
-  }
-}
-
-table.table td, table.table th {
-  color: var(blue);
-  border-color: var(rgba(0,0,0,.1));
-  background-color: transparent;
-  
-}
-
+table.table tr { color: var(--global-text-color); &:hover { color: var(--global-text-color); } }
+table.table td, table.table th { color: var(--global-text-color); border-color: var(rgba(0,0,0,0)); background-color: transparent; }
 
 /** Site footer */
 .site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; }
