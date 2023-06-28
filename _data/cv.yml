@@ -52,6 +52,28 @@
     - <u>Languages:</u> C/C++, C#, Assembly, VHDL, Bash, Python, Java, HTML/CSS
     - <u>Frameworks/Technologies:</u> Apple ARKit, AWS/Azure, DE1-SoC Dev Kit, ESRI, Git, Google ARCore, iOS, Jira, Kali Linux, ModelSim, MRTK, .NET MAUI, PSpice, Quartus Prime, TensorFlow, Unity/MARS, UNIX, YOLO
 
+- title: Licenses and Certifications
+  type: time_table
+  contents:
+    - title: <a href="https://www.cloudskillsboost.google/public_profiles/7b910f92-99a9-4ebd-b592-e96320f15bf9">Generative AI learning path</a>
+      institution: <i>Google Cloud Skills Boost</i>
+      year: 06/2023
+    - title: <a href="https://www.linkedin.com/learning/certificates/a24a2fc242e2e0d48db9d9ac07aeb7443901bb4210289f1a14c2dd93380ea7c0?trk=backfilled_certificate">Explore a Career in Machine Learning Engineering learning path</a>
+      institution: <i>LinkedIn</i>
+      year: 06/2022
+    - title: <a href="https://www.linkedin.com/learning/certificates/6a31cd780907796338aaf928323b38eaa9e5339fe85a2c4a313439c92f539ce8">Developing Chatbots with Azure</a>
+      institution: <i>LinkedIn</i>
+      year: 06/2022
+    - title: <a href="https://www.linkedin.com/learning/certificates/6af151cae5ce757de36d6a805da70045f8da6b678baf08f4402f566d536cd3d6">Training Neural Networks in C++</a>
+      institution: <i>LinkedIn</i>
+      year: 06/2022
+    - title: <a href="https://www.credly.com/badges/d220eada-1667-4404-b487-7d88ddf1d466?source=linked_in_profile">Unity Junior Programmer</a>
+      institution: <i>Unity</i>
+      year: 05/2022
+    - title: <a href="https://www.credly.com/badges/96673077-4c49-45a1-8c7f-d8dd75e8c6d7?source=linked_in_profile">Unity Essentials Pathway</a>
+      institution: <i>Unity</i>
+      year: 04/2022
+
 - title: Academic Interests and Coursework
   type: nested_list
   contents:
