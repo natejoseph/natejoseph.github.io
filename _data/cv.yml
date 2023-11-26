@@ -1,4 +1,4 @@
-- title: Nate Joseph
+- title: Nathaniel Joseph
 
 - title: Education
   type: time_table
@@ -22,35 +22,56 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Extended Reality Software Engineer
-      institution: University of Miami Information Technology, Coral Gables, Florida
-      year: 04/2022 - now
+    - title: Full-stack Software Engineer
+      institution: University of Miami Frost Institute for Data Science and Computing, Coral Gables, Florida
+      year: 05/2023 - now
+      description:
+        - Applied system design principles to model a scalable, reliable, and performative system for an application using modern frameworks.
+        - Demonstrated a willingness to pivot and adapt design decisions in response to evolving business needs and technological advancements.
+        - Collaborate with team members to develop and implement innovative solutions to optimize system performance and user experience.
+    - title: XR Software Engineer
+      institution: University of Miami Frost IDSC XR Studio, Coral Gables, Florida
+      year: Fall 2023
+      description:
+        - Pioneered an augmented reality application for ophthalmoscopy, allowing practitioners to practice eye examinations without the need of an in-person consultation.
+        - Demonstrated exceptional innovation by successfully overcoming technical challenges related to image processing, AR integration, and user interface design.
+        - Developed the AR ophthalmoscopy application independently, showcasing exceptional initiative, self-motivation, and problem-solving skills.
+        - Proactively maintained the application's framework versions, ensuring compatibility with the latest advancements in AR technology to enhance the app's performance, security, and user experience.
+    - title: XR Software Engineer
+      institution: University of Miami Information Technology Innovate Team, Coral Gables, Florida
+      year: 04/2022 - 05/2023
       description:
         - Designed, developed, tested, and deployed augmented reality applications using Magic Leap headsets, Unity, and C# in an Agile workflow.
         - Gained proficiency in using MRTK and Unity MARS to create headset and mobile-based AR applications, respectively.
-        - title: Core developer of an iOS application that uses YOLOv8 computer vision technology to scan food and accurately return its macronutrient data with respect to portion size.
+        - title: Lead developer of an iOS application that uses YOLOv8 computer vision technology to scan food and accurately return its macronutrient data with respect to portion size.
           contents:
             - Uses a self-trained database of over 120 thousand food images with hundreds of food options that are scannable, accurate, and allows for user data correction.
     - title: Software Engineer Intern
-      institution: The Singular Factory, Miami, Florida
+      institution: X Reality Factory, Miami, Florida
       year: Summer 2022
       description:
-        - Utilized ArcGIS mapping software in conjunction with Unity to build a mixed reality application with real-world raised-relief (3D) mapping capability, called HoloGIS.
-        - Efficiently worked with textures, tiles, and the GPU to understand and take advantage of the inner workings of graphics, how the map rendering works, and how/where data flows to/from the cache.
-        - Learned to manipulate graphics information and cache to merge information from two different applications to create new application functionality.
+        - Utilized ArcGIS software to build an app with real-world raised-relief (3D) mapping capability for military and corporate use
+        - Efficiently worked with textures, tiles, and the GPU to understand and take advantage of the inner workings of graphics, how map rendering works, and how/where data flows to/from the cache in map tiling software
+        - Manipulated data in cache to overhaul existing obsolete map processing system on app for efficient use on spatial devices
 
 - title: Relevant Projects
   type: time_table
   contents:
-    - title: <a href="https://www.natejoseph.me/assets/pdfs/CalorieChecker_UMComputingDayPoster.pdf">Calorie Checker</a>
+    - title: <a href="../assets/pdfs/VehiclePositioning.pdf">ML/NN Vehicle Positioning and LoS/NLoS Signal Classification</a>
+      year: Nov 2023
+      description: Modeling and comparing ML and ANN-based approaches for vehicle positioning and line-of-sight signal classification using channel state information.
+    - title: AR Ophthalmoscopy
+      year: 07/2023-now
+      description: An application that provides hands-on learning of eye conditions and observation methods through augmented reality.
+    - title: <a href="../assets/pdfs/CalorieChecker_UMComputingDayPoster.pdf">Calorie Checker</a>
       year: 06/2022-now
       description: An innovative application that gives users the macronutrient information of food items by simply scanning them with their phone camera.
 
 - title: Skills and Expertise
   type: list
   contents:
-    - <u>Languages:</u> C/C++, C#, Assembly, VHDL, Bash, Python, Java, HTML/CSS
-    - <u>Frameworks/Technologies:</u> Apple ARKit, AWS/Azure, DE1-SoC Dev Kit, ESRI, Git, Google ARCore, iOS, Jira, Kali Linux, ModelSim, MRTK, .NET MAUI, PSpice, Quartus Prime, TensorFlow, Unity/MARS, UNIX, YOLO
+    - <u>Languages:</u> C++, Python, C, C#, Assembly, VHDL, JavaScript, Bash, Java, HTML/CSS, SQL (Postgres)
+    - <u>Frameworks/Technologies:</u> Apple ARKit, AWS/Azure, DE1-SoC Dev Kit, ESRI, Git, Google ARCore, iOS, Jira, Kali Linux, ModelSim, MRTK, .NET MAUI, PSpice, PyTorch (NN), Quartus Prime, scikit-learn, Svelte, TensorFlow, Unity/MARS, UNIX, XCode, YOLO
 
 - title: Licenses and Certifications
   type: time_table
@@ -81,30 +102,37 @@
       items:
         - "Processors: Hardware, Software, and Interfacing"
         - Systems Programming
-        - <i>In Progress:</i> Computer Operating Systems
-        - <i>In Progress:</i> Computer Organization and Design
+        - Computer Operating Systems
+        - Computer Organization and Design
     - title: AI/ML
       items:
-        - <i>In Progress:</i> Intro to Artificial Intelligence
-        - <i>In Progress:</i> Neural Networks
+        - Intro to Artificial Intelligence
+        - Neural Networks
+    - title: Software Engineering
+      items:
+        - <i>Forthcoming:</i> Software Engineering and Architecture
+        - <i>Forthcoming:</i> Software Design and Verification
+        - <i>Forthcoming:</i> Database Design and Management
     - title: Hardware Engineering
       items:
         - Electrical Circuit Theory
         - Electronics
         - Logic Design
         - (Structured) Digital Design
-    - title: Broad Programming
+    - title: Broad Technological Interests
       items:
         - Algorithms and Data Structures
         - Augmented Reality
         - Introduction to Cybersecurity
+        - <i>Forthcoming:</i> Quantum Computing
+        - <i>Forthcoming:</i> Theory of Computing
     - title: Other Academic Interests
       items:
         - Communication Theory
         - Introduction to Digital Filmmaking
         - Philosophy of Space and Time
         - Persuasion
-        - <i>In Progress:</i> Cinematic Arts Industry Insider
+        - Cinematic Arts Industry Insider
 
 - title: Extracurricular Activities
   type: nested_list
@@ -117,7 +145,8 @@
         - Boxing Club
     - title: Affiliations
       items:
-        - Pi Kappa Phi Fraternity
+        - Kappa Theta Pi Fraternity, Sigma Chapter
+        - Pi Kappa Phi Fraternity, Alpha Chi Chapter
         - ColorStack
         - eMerge Americas, <i>2022 and 2023 Attendee</i>
         - Live! 360, Orlando, Florida, <i>2022 Attendee, AI Track</i>
