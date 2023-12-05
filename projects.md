@@ -53,6 +53,11 @@ permalink: /projects/
   </thead>
   <tbody>
     <tr>
+      <th scope="row">Dec, 2023</th>
+      <td>Multi-agent Reinforcement Learning Predator and Prey Game</td>
+      <td><a href="https://github.com/natejoseph/marl-predator-prey"><span class="font-weight-bold">marl-predator-prey</span></a></td>
+    </tr>
+    <tr>
       <th scope="row">Nov, 2023</th>
       <td>Vehicle Position Estimation and LoS/NLoS Classification using ML and NN</td>
       <td><a href="https://github.com/natejoseph/vehicle-positioning"><span class="font-weight-bold">vehicle-positioning</span></a></td>
