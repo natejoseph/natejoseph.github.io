@@ -71,7 +71,7 @@
   type: list
   contents:
     - <u>Languages:</u> C++, Python, C, C#, Assembly, VHDL, JavaScript, Bash, Java, HTML/CSS, SQL (Postgres)
-    - <u>Frameworks/Technologies:</u> Apple ARKit, AWS/Azure, DE1-SoC Dev Kit, ESRI, Git, Google ARCore, Google AI Studio, iOS, Jira, Kali Linux, ModelSim, MRTK, .NET MAUI, PSpice, PyTorch (NN), Quartus Prime, scikit-learn, Svelte, TensorFlow, Unity/MARS, UNIX, XCode, YOLO
+    - <u>Frameworks/Technologies:</u> Apple ARKit, AWS/Azure, DE1-SoC Dev Kit, ESRI, Git, Google ARCore, Google AI Studio, iOS, Jira, Kali Linux, Keras, ModelSim, MRTK, .NET MAUI, PSpice, PyTorch (NN), Quartus Prime, scikit-learn, Svelte, TensorFlow, Unity/MARS, UNIX, XCode, YOLO
 
 - title: Licenses and Certifications
   type: time_table
