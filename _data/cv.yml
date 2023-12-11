@@ -57,6 +57,9 @@
 - title: Relevant Projects
   type: time_table
   contents:
+    - title: <a href="../assets/pdfs/MARLPredatorPrey.pdf">Predator and Prey Game Optimization using MARLs</a>
+      year: Dec 2023
+      description: Using IQL, VDN, and QMIX to optimize and compare predator and prey games in a cops and robbers fashion. Comparison of training methods with different hyperparameters and network configurations.
     - title: <a href="../assets/pdfs/VehiclePositioning.pdf">ML/NN Vehicle Positioning and LoS/NLoS Signal Classification</a>
       year: Nov 2023
       description: Modeling and comparing ML and ANN-based approaches for vehicle positioning and line-of-sight signal classification using channel state information.
