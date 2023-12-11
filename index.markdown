@@ -5,7 +5,7 @@
 layout: home
 permalink: /
 title: Nate Joseph
-image: portfolio/headshot.png
+image: portfolio/profphoto.jpg
 image_circular: true
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: portfolio/headshot.png
+image: portfolio/profphoto.jpg
 image_circular: true
 ---
 
