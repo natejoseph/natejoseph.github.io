@@ -74,7 +74,7 @@
   type: list
   contents:
     - <u>Languages:</u> C++, Python, C, C#, Assembly, VHDL, JavaScript, Bash, Java, HTML/CSS, SQL (Postgres)
-    - <u>Frameworks/Technologies:</u> Apple ARKit, AWS/Azure, DE1-SoC Dev Kit, ESRI, Git, Google ARCore, Google AI Studio, iOS, Jira, Kali Linux, Keras, ModelSim, MRTK, .NET MAUI, PSpice, PyTorch (NN), Quartus Prime, scikit-learn, Svelte, TensorFlow, Unity/MARS, UNIX, XCode, YOLO
+    - <u>Frameworks/Technologies:</u> Apple ARKit, AWS/Azure, DE1-SoC Dev Kit, ESRI, Git, Google ARCore, Google AI Studio, iOS, Jira, Jupyter Notebook, Kali Linux, Keras, ModelSim, MRTK, .NET MAUI, PSpice, PyTorch, Quartus Prime, scikit-learn, Svelte, TensorFlow, Unity/MARS, UNIX, XCode, YOLO
 
 - title: Licenses and Certifications
   type: time_table
@@ -113,9 +113,9 @@
         - Neural Networks
     - title: Software Engineering
       items:
-        - <i>Forthcoming:</i> Software Engineering and Architecture
-        - <i>Forthcoming:</i> Software Design and Verification
-        - <i>Forthcoming:</i> Database Design and Management
+        - <i>In Progress:</i> Software Engineering and Architecture
+        - <i>In Progress:</i> Software Design and Verification
+        - <i>In Progress:</i> Database Design and Management
     - title: Hardware Engineering
       items:
         - Electrical Circuit Theory
@@ -127,8 +127,8 @@
         - Algorithms and Data Structures
         - Augmented Reality
         - Introduction to Cybersecurity
-        - <i>Forthcoming:</i> Quantum Computing
-        - <i>Forthcoming:</i> Theory of Computing
+        - <i>In Progress:</i> Quantum Computing
+        - <i>In Progress:</i> Theory of Computing
     - title: Other Academic Interests
       items:
         - Communication Theory
@@ -148,7 +148,7 @@
         - Boxing Club
     - title: Affiliations
       items:
-        - Kappa Theta Pi Fraternity, Sigma Chapter
+        - <b>Vice President of Technical Development</b>, Kappa Theta Pi Fraternity, Sigma Chapter
         - Pi Kappa Phi Fraternity, Alpha Chi Chapter
         - ColorStack
         - eMerge Americas, <i>2022 and 2023 Attendee</i>
