@@ -63,8 +63,8 @@
     - title: <a href="../assets/pdfs/VehiclePositioning.pdf">ML/NN Vehicle Positioning and LoS/NLoS Signal Classification</a>
       year: Nov 2023
       description: Modeling and comparing ML and ANN-based approaches for vehicle positioning and line-of-sight signal classification using channel state information.
-    - title: AR Ophthalmoscopy
-      year: 07/2023-now
+    - title: <a href="../assets/videos/OphthalDemoVideo.MOV">AR Ophthalmoscopy</a>
+      year: 07/2023-12/2023
       description: An application that provides hands-on learning of eye conditions and observation methods through augmented reality.
     - title: <a href="../assets/pdfs/CalorieChecker_UMComputingDayPoster.pdf">Calorie Checker</a>
       year: 06/2022-now
@@ -124,7 +124,7 @@
         - (Structured) Digital Design
     - title: Broad Technological Interests
       items:
-        - Algorithms and Data Structures
+        - Data Structures and Algorithms
         - Augmented Reality
         - Introduction to Cybersecurity
         - <i>In Progress:</i> Quantum Computing
