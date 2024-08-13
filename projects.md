@@ -29,7 +29,7 @@ permalink: /projects/
     </tr>
     <tr>
       <th scope="row">Ongoing</th>
-      <td><a href="/assets/pdfs/OphthalDemoVideo.MOV"><span class="font-weight-bold">AR Ophthalmoscopy</span></a></td>
+      <td><a href="/assets/videos/OphthalDemoVideo.MOV"><span class="font-weight-bold">AR Ophthalmoscopy</span></a></td>
       <td>An application that allows for direct and indirect ophthalmoscopy of a virtual fundus (back of the eye) in augmented reality, reducing the cost of training professionals</td>
     </tr>
 
